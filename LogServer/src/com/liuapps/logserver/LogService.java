@@ -6,6 +6,7 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.util.Log;
 
+// This is Log service
 public class LogService extends Service {
 	private final String TAG = LogService.class.getSimpleName();
 	
